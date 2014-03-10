@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Tetsuji-Asakawa.github.io/atom.xml" rel="self"/>
   <link href="http://Tetsuji-Asakawa.github.io/"/>
-  <updated>2014-03-10T19:53:17+09:00</updated>
+  <updated>2014-03-10T22:07:43+09:00</updated>
   <id>http://Tetsuji-Asakawa.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tools]]></title>
+    <link href="http://Tetsuji-Asakawa.github.io/blog/2014/03/10/tools/"/>
+    <updated>2014-03-10T21:58:00+09:00</updated>
+    <id>http://Tetsuji-Asakawa.github.io/blog/2014/03/10/tools</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Survey]]></title>
